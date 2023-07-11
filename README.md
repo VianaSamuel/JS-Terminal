@@ -2,7 +2,7 @@
 Terminal com funções básicas feito em JavaScript e Node.JS.
 
 ## Instalação:
-```bash
+```
 # instalar nodejs
 sudo apt install nodejs
 
