@@ -1,5 +1,5 @@
 # JS-Terminal
-Terminal com funções básicas feito em JavaScript e Node.JS.
+Terminal com funções básicas feito em JavaScript e NodeJS.
 
 ## Instalação:
 ```bash
