@@ -20,9 +20,10 @@ node terminal.js
 ```
 ## Uso:
 ```bash
-ls     # lista os arquivos do diretório atual
-cd     # muda o diretório atual para o especificado
-rm     # remove o arquivo ou diretório especificado
-mkdir  # cria um novo diretório com o nome especificado
-touch  # cria ou atualiza o arquivo de nome especificado
+ls      # lista os arquivos do diretório atual
+cd      # muda o diretório atual para o especificado
+rm      # remove o arquivo especificado
+rm -rf  # remove o diretório especificado
+mkdir   # cria um novo diretório com o nome especificado
+touch   # cria ou atualiza o arquivo de nome especificado
 ```
